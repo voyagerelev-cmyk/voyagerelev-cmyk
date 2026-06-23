@@ -1,16 +1,116 @@
-## Hi there 👋
+# 👋 Hello, I'm Nikhil
 
-<!--
-**voyagerelev-cmyk/voyagerelev-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer | Cybersecurity Enthusiast | BBA Student
 
-Here are some ideas to get you started:
+I'm a 19-year-old technology enthusiast from India, currently pursuing a Bachelor of Business Administration (BBA) while building practical skills in software development and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating real-world applications, exploring security concepts, and continuously improving my technical and communication abilities.
+
+---
+
+## 🚀 Professional Summary
+
+- 🎓 Commerce Graduate (Class 12)
+- 📚 Pursuing BBA
+- 💻 Full-Stack Web Development Learner
+- 🔐 Cybersecurity Enthusiast
+- 🌱 Continuous Learner
+- 🎤 Working on Communication & Public Speaking
+- 🎯 Focused on Building Valuable Digital Products
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 Marketplace Application
+A modern marketplace platform allowing users to create listings, manage products, and interact with other users.
+
+**Tech Stack:** Next.js • React • Supabase
+
+---
+
+### 💬 Real-Time Messaging Application
+A messaging platform featuring user authentication and real-time communication.
+
+**Tech Stack:** Next.js • JavaScript • Supabase
+
+---
+
+### 🚧 Future Projects
+- Cybersecurity Labs
+- SaaS Applications
+- AI-Powered Tools
+- Open Source Contributions
+
+---
+
+## 🌱 Currently Learning
+
+- Full-Stack Application Development
+- Cybersecurity Fundamentals
+- Networking Concepts
+- O-Level Computer Applications
+- Software Architecture Principles
+
+---
+
+## 🎯 Career Objectives
+
+- Become a Skilled Full-Stack Developer
+- Develop Strong Cybersecurity Knowledge
+- Build Scalable Web Applications
+- Contribute to Open Source Projects
+- Launch Digital Products & Services
+- Achieve Financial Independence
+
+---
+
+## 📈 2026 Roadmap
+
+✔ Build Multiple Production-Ready Projects
+
+✔ Strengthen Problem-Solving Skills
+
+✔ Improve Technical Communication
+
+✔ Expand GitHub Portfolio
+
+✔ Learn Advanced Web Security Concepts
+
+✔ Create Valuable Content Online
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voyagerelev-cmyk&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voyagerelev-cmyk&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/voyagerelev-cmyk
+
+---
+
+> "Consistency compounds. Small efforts repeated daily create extraordinary results."
