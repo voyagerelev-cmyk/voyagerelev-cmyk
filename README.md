@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Nikhil
+###  Full-Stack Developer | Cybersecurity 
 
-### Aspiring Full-Stack Developer | Cybersecurity Enthusiast | BBA Student
-
-I'm a 19-year-old technology enthusiast from India, currently pursuing a Bachelor of Business Administration (BBA) while building practical skills in software development and cybersecurity.
+I'm a 19-year-old technology enthusiast from India, currently in software development and cybersecurity.
 
 I enjoy creating real-world applications, exploring security concepts, and continuously improving my technical and communication abilities.
 
@@ -10,12 +9,10 @@ I enjoy creating real-world applications, exploring security concepts, and conti
 
 ## 🚀 Professional Summary
 
-- 🎓 Commerce Graduate (Class 12)
-- 📚 Pursuing BBA
-- 💻 Full-Stack Web Development Learner
-- 🔐 Cybersecurity Enthusiast
+- 💻 Full-Stack Web Developer
+- 🔐 Cybersecurity Expert
 - 🌱 Continuous Learner
-- 🎤 Working on Communication & Public Speaking
+- 🎤 Mass media Communication & Public Speaking
 - 🎯 Focused on Building Valuable Digital Products
 
 ---
@@ -25,6 +22,8 @@ I enjoy creating real-world applications, exploring security concepts, and conti
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -32,11 +31,12 @@ I enjoy creating real-world applications, exploring security concepts, and conti
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
+--
 
 ## 📂 Featured Projects
 
@@ -51,59 +51,6 @@ A modern marketplace platform allowing users to create listings, manage products
 A messaging platform featuring user authentication and real-time communication.
 
 **Tech Stack:** Next.js • JavaScript • Supabase
-
----
-
-### 🚧 Future Projects
-- Cybersecurity Labs
-- SaaS Applications
-- AI-Powered Tools
-- Open Source Contributions
-
----
-
-## 🌱 Currently Learning
-
-- Full-Stack Application Development
-- Cybersecurity Fundamentals
-- Networking Concepts
-- O-Level Computer Applications
-- Software Architecture Principles
-
----
-
-## 🎯 Career Objectives
-
-- Become a Skilled Full-Stack Developer
-- Develop Strong Cybersecurity Knowledge
-- Build Scalable Web Applications
-- Contribute to Open Source Projects
-- Launch Digital Products & Services
-- Achieve Financial Independence
-
----
-
-## 📈 2026 Roadmap
-
-✔ Build Multiple Production-Ready Projects
-
-✔ Strengthen Problem-Solving Skills
-
-✔ Improve Technical Communication
-
-✔ Expand GitHub Portfolio
-
-✔ Learn Advanced Web Security Concepts
-
-✔ Create Valuable Content Online
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voyagerelev-cmyk&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voyagerelev-cmyk&layout=compact)
 
 ---
 
