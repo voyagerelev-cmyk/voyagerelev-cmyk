@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Nikhil
 ###  Full-Stack Developer | Cybersecurity 
 
-I'm a 19-year-old technology enthusiast from India, currently in software development and cybersecurity.
-
-I enjoy creating real-world applications, exploring security concepts, and continuously improving my technical and communication abilities.
+I'm a 19-year-old from India, currently in software development and cybersecurity.
 
 ---
 
