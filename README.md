@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nikhil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+Digital+Products;React+%26+Next.js+Developer;Always+Learning;Future+Entrepreneur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;CyberSecurity;React+%26+Next.js+Developer;" alt="Typing SVG" />
 
 </div>
 
