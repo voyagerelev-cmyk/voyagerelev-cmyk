@@ -1,61 +1,91 @@
-# 👋 Hello, I'm Nikhil
-###  Full-Stack Developer | Cybersecurity 
+<div align="center">
 
-I'm a 19-year-old from India, currently in software development and cybersecurity.
+# 👋 Hey, I'm Nikhil
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+Digital+Products;React+%26+Next.js+Developer;Always+Learning;Future+Entrepreneur" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-- 💻 Full-Stack Web Developer
-- 🔐 Cybersecurity Expert
+I'm a 19-year-old software developer, into cybersecurity, and building real-world projects.
+
+- 💻 Full-Stack Web Developer | CyberSecurity
+- 🚀 Building modern web applications
 - 🌱 Continuous Learner
-- 🎤 Mass media Communication & Public Speaking
-- 🎯 Focused on Building Valuable Digital Products
+- 🎤 Communication & Public Speaking
+- 🇮🇳 Based 
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
 
---
+### Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,git,github,vscode" />
+</p>
+
+
+---
 
 ## 📂 Featured Projects
 
 ### 🛒 Marketplace Application
-A modern marketplace platform allowing users to create listings, manage products, and interact with other users.
+
+A modern marketplace platform that enables users to:
+
+- Create and manage product listings
+- Connect and interact with other users
+- Build their online presence
+- Browse products in a clean, modern interface
 
 **Tech Stack:** Next.js • React • Supabase
 
 ---
 
 ### 💬 Real-Time Messaging Application
-A messaging platform featuring user authentication and real-time communication.
+
+A messaging platform featuring:
+
+- Secure user authentication
+- Real-time communication
+- Responsive user interface
+- Fast and seamless messaging experience
 
 **Tech Stack:** Next.js • JavaScript • Supabase
 
 ---
 
-## 📫 Connect With Me
-
-🔗 GitHub: https://github.com/voyagerelev-cmyk
 
 ---
 
-> "Consistency compounds. Small efforts repeated daily create extraordinary results."
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/voyagerelev-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Personal Motto
+
+> **"Consistency compounds. Small efforts repeated daily create extraordinary results."**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=voyagerelev-cmyk&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
